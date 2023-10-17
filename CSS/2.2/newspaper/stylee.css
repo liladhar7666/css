@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    width: 100%;
+    position: fixed;
+    background-color: black;}
+ul{
+    text-align: end;
+    padding: 20px;
+    list-style: none;
+}
+li{
+    color: white;
+    display: inline;
+    font-size: 1.6rem;
+    padding-inline: 20px;
+}
+.heading{
+   display: inline-block;
+    margin-top: 10vh;
+    margin-left: 10vw;
+}
+.header{
+    font-size: 3rem;
+}
+.subheading{
+    margin-top: 20px;
+}
+.button{
+    padding: 10px 40px;
+    margin-top: 20px;
+}
+footer{
+    height: 200vh;
+}
+.imgw{
+    float: right;
+    width: 20vw;
+    margin-right: 20px;
+    margin-top: 20vh;
+}

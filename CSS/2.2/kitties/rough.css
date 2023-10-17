@@ -1,0 +1,38 @@
+body{
+    background-color: lightpink;
+}
+.container{
+    width: 80%;
+    margin-inline: auto;
+    
+}
+.cat-outside{
+    width: 60px;
+    position: sticky;
+    top: 10px;
+    left: 20px;
+}
+.text-box{
+    width: 90%;
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+}
+.kitty{
+    width: 200px;
+    float: right;
+}
+.bottom-kitty{
+    width: 100px;
+    float: left;
+
+}
+.spacer{
+    height: 200vh;
+}
+.text-wrapper{
+    width: 300px;
+    height: 200px;
+    border: 2px solid red;
+    overflow: hidden;
+}

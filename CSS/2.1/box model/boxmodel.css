@@ -1,0 +1,37 @@
+
+h1{
+    color: aquamarine;
+}
+p{
+    border:2px solid blue ;
+}
+.red-border{
+    background-color: rgb(221, 162, 221);
+    border: 5px solid greenyellow;
+}
+#lorem-text1{
+    font-weight: bold;
+}
+.red-border, #lorem-text1,h1{
+font-style: italic;
+}
+header h1{
+    background-color: rgba(rgb(1rgb(34, 84, 34)3, 63), rgb(150, 174, 150), rgb(0, 255, 72), alpha);
+    background-color: #20a50d99; 
+     background-color: hsl(266, 50, 68);    
+    font-size :10vw; 
+}
+h1{
+    font-size: 10%;
+}
+header{
+    width: 400px;
+    border: 5px solid red;
+}
+img{
+    width: 10vw;
+
+}
+header img{
+    width: 20vw;
+}

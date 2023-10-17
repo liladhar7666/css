@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+  width: 200px;
+  height: 340px;
+  border: 5px solid black;
+  margin: 50px auto;
+
+}
+button{
+    padding: 10px 20px;
+    margin:40px 5px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.grey{
+    color: grey;
+}
+.details{
+  margin-top: 5px;
+}

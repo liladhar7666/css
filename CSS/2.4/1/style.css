@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Foldit:wght@100&family=Noto+Sans+TC:wght@100&family=Oswald:wght@200&family=Roboto:ital,wght@1,100&display=swap');
+
+body{
+    font-family: 'Foldit', cursive;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: wheat;
+    font-size: 30px;
+}
+.container{
+  width: 50%;
+  margin: 50px;
+  padding:40px;
+  background-color: white;
+  border-radius: 8px;
+  position: relative;
+  box-shadow: 4px 4px 1px 10px #ccc ,-4px -4px 1px 10px purple ;
+
+}
+h1{
+    color: blueviolet;
+    background-color: burlywood;
+    text-decoration-line: overline;
+    text-decoration-line: underline;
+    text-decoration-color: cadetblue;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 20px;
+    text-decoration:underline blue 4px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px  black;
+    font-size: 32px;
+    font-weight: normal;
+    font-family: cursive;
+    /* position: absolute;
+    top: 100px;
+    bottom: 10px;
+    /* display: inline; */
+} 
+p{
+    text-align: center;
+    text-align:justify;
+    border: 2px dotted red;
+    font-style: italic;
+    font-weight: 500;
+    letter-spacing: 2px;
+    word-spacing: 1px;
+    text-indent: 10px;
+    line-height: 25px;
+}
